@@ -1,3 +1,7 @@
 pandas
 numpy
 matplotlib
+yt_dlp
+opencv-python
+transformers
+ultralytics
